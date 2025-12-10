@@ -1,4 +1,11 @@
-## Hi there 👋
+## 👋 About Me
+Solutions Developer with 15+ years of experience specializing in Microsoft technologies. I have a deep passion for .NET, C#, Microservices, EF Core and Azure. 
+Technical Expertise:
+• Proficient in application development and code implementation
+• Application integration
+• Continuous Integration G Continuous Deployment (CI/CD)
+• Managing client communication employment
+• Building overall site architecture
 
 <!--
 **VijayakumarPalaniyappan/VijayakumarPalaniyappan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
