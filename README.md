@@ -33,7 +33,8 @@ Technical Expertise:
   - PowerShell, YAML
     
 ## 🌐 Social Links
-![LinkedIn](https://www.linkedin.com/in/vijayakumar-palani-62172967/)
+📫 ![LinkedIn](https://www.linkedin.com/in/vijayakumar-palani-62172967/)
+
 <!--
 **VijayakumarPalaniyappan/VijayakumarPalaniyappan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
