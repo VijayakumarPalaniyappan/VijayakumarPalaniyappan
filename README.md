@@ -31,7 +31,27 @@ Technical Expertise:
   - Multi-Threading, TPL, LINQ and Generic Repository,
   - Confluence, Swagger (OAS), JIRA, XML Digital Signature,
   - PowerShell, YAML
-    
+
+### 🧰 My main toolkit
+
+<img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img width="30" align="left" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
+<img width="30" align="left" src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png">
+<img width="30" align="left" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
+<img width="30" align="left" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+<img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<br/><br/>
+
+### 🔧 Extra skills
+<img width="30" align="left" src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png">
+<img width="30" align="left" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+<img width="30" align="left" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
+<img width="30" align="left" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+<img width="30" align="left" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
+<img width="30" align="left" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+<br /><br/>
+
 ## 🌐 Social Links
 📫 ![LinkedIn](https://www.linkedin.com/in/vijayakumar-palani-62172967/)
 
