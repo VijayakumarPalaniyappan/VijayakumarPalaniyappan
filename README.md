@@ -1,4 +1,4 @@
-# 👋 About Me
+## 👋 About Me
 Solutions Developer with 17+ years of experience specializing in Microsoft technologies. I have a deep passion for .NET, C#, Microservices, EF Core and Azure. 
 Technical Expertise:
   - Proficient in application development and code implementation
@@ -7,7 +7,7 @@ Technical Expertise:
   - Managing client communication employment
   - Building overall site architecture
 
-# 🔧 Technologies & Tools
+## 🔧 Technologies & Tools
 - Language: C , Python
 - Frameworks and Libraries: Experience with ASP.NET, ASP.NET Core, .NET 8.0 and Entity Framework.
 - Web Development: HTML, CSS, JavaScript, front-end frameworks like Angular or React.
