@@ -8,7 +8,7 @@ Technical Expertise:
   - Building overall site architecture
 
 ## 🔧 Technologies & Tools
-- Language: C , Python
+- Language: C#, Python, Go Lang
 - Frameworks and Libraries: Experience with ASP.NET, ASP.NET Core, .NET 8.0 and Entity Framework.
 - Web Development: HTML, CSS, JavaScript, front-end frameworks like Angular or React.
 - DB Management: SQL Server, LINQ, ORM tools. 
